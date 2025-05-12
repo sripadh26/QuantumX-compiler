@@ -3,7 +3,7 @@
 An online code compiler for engineering students, supporting multiple languages (C++, Java, Python, JS).
 
 ## 🌐 Live Demo
-[Click here to try Quantum-Compiler](https://your-username.github.io/QuantumX-Compiler)
+[Click here to try QuantumX-Compiler]( https://sripadh26.github.io/QuantumX-compiler/)
 
 ## ✨ Features
 - Supports C++, Java, Python, JavaScript
