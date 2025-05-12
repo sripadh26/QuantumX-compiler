@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quantum Compiler</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>QuantumX Compiler 💻</h1>
+    
+    <label for="language">Choose Language:</label>
+    <select id="language">
+      <option value="54">C++</option>
+      <option value="62">Java</option>
+      <option value="71">Python</option>
+      <option value="63">JavaScript</option>
+    </select>
+
+    <label for="code">Write Your Code:</label>
+    <textarea id="code" placeholder="Write your code here..."></textarea>
+
+    <label for="input">Input (Optional):</label>
+    <textarea id="input" placeholder="Enter input here..."></textarea>
+
+    <button onclick="compileCode()">Run Code ▶️</button>
+
+    <h2>Output:</h2>
+    <pre id="output"></pre>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
