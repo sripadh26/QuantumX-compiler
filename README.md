@@ -7,7 +7,6 @@ An online code compiler for engineering students, supporting multiple languages 
 
 ## ✨ Features
 - Supports C++, Java, Python, JavaScript
-- Judge0 API Integration
 - Beautiful dark UI
 - Instant output
 
